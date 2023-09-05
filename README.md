@@ -1,1 +1,1 @@
-# Hotel-Data-analytics
+Hotel Data Analytics Project
